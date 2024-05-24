@@ -3,14 +3,15 @@
 </h1>
 
 <h3 align="center">Programmer and Web Developer</h3>
-----------------------------
 
 I'm a back-end developer with a passion for learning and building web applications. My main tools are Python and Django, and I'm excited to grow my skills in this field
 
+<div align="center">
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [amirreza82mh@gmail.com](mailto:amirreza82mh@gmail.com)
 * 🧠  I'm learning Django, Elastic Search, DRF
 * ⚡  I'm interested in watching series and playing games
+</div>
 
 ### Skills
 
