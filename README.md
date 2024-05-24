@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirreza+Mehrabani!;" />
 </h1>
 
-Programmer and Web Developer
+<h3 align="center">Programmer and Web Developer</h3>
 ----------------------------
 
 I'm a back-end developer with a passion for learning and building web applications. My main tools are Python and Django, and I'm excited to grow my skills in this field
