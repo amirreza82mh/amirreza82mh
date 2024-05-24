@@ -23,29 +23,16 @@ I'm a back-end developer with a passion for learning and building web applicatio
 
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=amirreza82mh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="amirreza82mh's GitHub stats" />
-
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza82mh&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza82mh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 </div>
-
-<br/><br/>
 
 <hr/>
 
