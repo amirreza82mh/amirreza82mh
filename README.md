@@ -27,10 +27,10 @@ I'm a back-end developer with a passion for learning and building web applicatio
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amirreza82mh"><img src="https://github-readme-stats.vercel.app/api?username=amirreza82mh&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="amirreza82mh's GitHub stats" /></a>
+<a href="http://www.github.com/amirreza82mh"><img src="https://github-readme-stats.vercel.app/api?username=amirreza82mh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="amirreza82mh's GitHub stats" /></a>
 
-<a href="http://www.github.com/amirreza82mh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza82mh&stroke=0891b2&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=0891b2&currStreakLabel=a855f7&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<a href="http://www.github.com/amirreza82mh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza82mh&stroke=0891b2&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/amirreza82mh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=amirreza82mh&bg_color=ffffff&color=0891b2&line=0891b2&point=0891b2&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/amirreza82mh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=amirreza82mh&bg_color=312e81&color=0891b2&line=0891b2&point=0891b2&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/amirreza82mh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza82mh&langs_count=10&title_color=a855f7&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/amirreza82mh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza82mh&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
